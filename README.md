@@ -1,5 +1,5 @@
 # Number-Guessing-Game
-Guess a number from 0-99
+Guess a number from 0-99 <br>
 Made in BlueJ
 
 # Features
